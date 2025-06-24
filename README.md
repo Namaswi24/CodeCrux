@@ -171,7 +171,7 @@ front_end/
 ![ Adding to google Calender](photos/calender1.jpg)
 
 ### User
-![User](photos/User.jpg)
+![User](photos/user.jpg)
 
 
 
