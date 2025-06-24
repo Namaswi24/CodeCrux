@@ -125,35 +125,35 @@ front_end/
 
 
 
-### Welcome Page
-![Welcome Page](photos/Welcome%20.jpg)
+### Login 
+![Login](photos/Login.jpg)
 
-### As Employer
-![As_Employer](photos/AS%20Employer.jpg)
+### SignUp
+![SignUp](photos/SignUp.jpg)
 
-### Employer Dashboard
-![Employer_Dashboard](photos/Employer%20Dashboard.jpg)
+### Dashboard
+![Dashboard](photos/Dashboard.jpg)
 
-### Post Job
-![Post_job](photos/Post%20Job.jpg)
+### Daily Problem
+![Daily Problem](photos/DailyProblem.jpg)
 
-### Available Jobs
-![Available](photos/Available.jpg)
-
-
-### Chat 
-![CHAT](photos/CHAT.jpg)
+### Completing Daily Challenge
+![Completing Daily Challenge](photos/DP1.jpg)
 
 
-### DISPUTE
-![DISPUTE](photos/DISPUTE.jpg)
+### Updated Dashboard
+![Updated Dashboard](photos/changedD.jpg)
 
 
-### MARK WORK DONE
-![MARK_WORK_DONE](photos/MARK%20WORK%20DONE.jpg)
+### Problem List
+![Problem List](photos/problems.jpg)
 
-### Profile/My Jobs
-![Profile](photos/MY%20JOBS.jpg)
+
+### Filters
+![Filters](photos/filters.jpg)
+
+### After Applying Filters
+![After Applying Filters](photos/afterfilter.jpg)
 
 ### Multiple applicants
 ![Multiple_applicants](photos/Multiple%20applicants.jpg)
