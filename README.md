@@ -121,7 +121,7 @@ front_end/
 * **Platform Specific APIs:** (e.g., Codeforces API, etc.) for fetching problem details, user-specific data if available and permissible.
 
 ---
-## Frontend Screenshots
+## Project Overview
 
 
 
@@ -155,22 +155,27 @@ front_end/
 ### After Applying Filters
 ![After Applying Filters](photos/afterfilter.jpg)
 
-### Multiple applicants
-![Multiple_applicants](photos/Multiple%20applicants.jpg)
+### Marking as solved and adding to favorites
+![Marking as solved and adding to favorites](photos/sf.jpg)
 
-### Posted Jobs
-![Posted](photos/POSTED.jpg)
+### Contests
+![Contests](photos/contests.jpg)
 
-### Release Payments
-![Release](photos/RELEASE.jpg)
+### favorites
+![favorites](photos/favorites.jpg)
 
-### Submit Application
-![Submit](photos/Submit%20application.jpg)
+### Adding to google Calender
+![ Adding to google Calender](photos/calender.jpg)
+
+### Adding to google Calender
+![ Adding to google Calender](photos/calender1.jpg)
+
+### User
+![User](photos/User.jpg)
 
 
 
-### Multiple applicants
-![Multiple applicants](photos/Multiple%20applicants.jpg)
+
 
 
 
