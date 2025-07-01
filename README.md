@@ -214,13 +214,13 @@ CP_PORTAL/
 
   • Favorites are stored per user and displayed on the dashboard for quick access.
 
-# 📊 Dashboard & User Analytics:
+### 📊 Dashboard & User Analytics:
 
   • View your current streak, problem-solving stats, and platform usage breakdown.
 
   • Monitor your growth over time with a progress indicator.
 
-# 🔐 User Profile & Data Persistence:
+### 🔐 User Profile & Data Persistence:
 
   • Each user’s data (solved problems, streaks, favorites, preferences) is securely stored and persists across sessions.
 
