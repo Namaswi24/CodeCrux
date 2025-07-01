@@ -1,7 +1,7 @@
 
 # 🚀 CodeCrux — Competitive Programming Companion
 
-**CodeCrux,CompeCompetitive Programming Portal is a customized full-stack web application that brings together competitive programming features in a single platform. From personalized problem recommendations to daily streaks and calendar-synced contests, it integrates multiple services like Codeforces, AtCoder, LeetCode, and Clist.by into a single competitive programming hub.
+CodeCrux, CompeCompetitive Programming Portal is a customized full-stack web application that brings together competitive programming features in a single platform. From personalized problem recommendations to daily streaks and calendar-synced contests, it integrates multiple services like Codeforces, AtCoder, LeetCode, and Clist.by into a single competitive programming hub.
 
 
 ---
