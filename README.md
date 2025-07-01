@@ -162,13 +162,13 @@ CP_PORTAL/
 
    
 ## 🚀 Usage
-🧾 User Registration & Authentication:
+ # 🧾 User Registration & Authentication:
 
 • Users can securely register and log in to create their personalized programming workspace.
 
 • Authenticated sessions are managed using JWT tokens, ensuring secure and persistent access.
 
-📅 Real-Time Contest Tracking:
+# 📅 Real-Time Contest Tracking:
 
 • Navigate to the "Contests" section to explore upcoming contests from Codeforces, AtCoder, LeetCode, CodeChef, and GFG, aggregated using the Clist.by API.
 
@@ -176,7 +176,7 @@ CP_PORTAL/
 
 • One-click integration with Google Calendar lets users set personalized contest reminders.
 
-📚 Intelligent Problem Practice:
+# 📚 Intelligent Problem Practice:
 
 • Access a curated list of unsolved problems tailored to your skill level and previous activity.
 
@@ -188,7 +188,7 @@ CP_PORTAL/
 
 •By title keyword or problem ID.
 
-🔥 Daily Challenge with Streak System:
+# 🔥 Daily Challenge with Streak System:
 
 •Receive a daily problem based on your performance and tag preferences.
 
@@ -196,7 +196,7 @@ CP_PORTAL/
 
 • Failure to solve the daily problem by midnight resets the streak.
 
-✅ Problem Status & Progress Tracker:
+# ✅ Problem Status & Progress Tracker:
 
 • The portal maintains a history of all solved and attempted problems.
 
@@ -208,19 +208,19 @@ CP_PORTAL/
 
 • Favorite problems they marked for later.
 
-❤️ Favorites System:
+# ❤️ Favorites System:
 
 • Bookmark problems or contests to revisit later.
 
 • Favorites are stored per user and displayed on the dashboard for quick access.
 
-📊 Dashboard & User Analytics:
+# 📊 Dashboard & User Analytics:
 
 • View your current streak, problem-solving stats, and platform usage breakdown.
 
 • Monitor your growth over time with a progress indicator.
 
-🔐 User Profile & Data Persistence:
+# 🔐 User Profile & Data Persistence:
 
 • Each user’s data (solved problems, streaks, favorites, preferences) is securely stored and persists across sessions.
 
