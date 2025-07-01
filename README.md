@@ -160,17 +160,73 @@ CP_PORTAL/
 
 4.  Open your browser and navigate to `http://localhost:3000` (or the port specified for the frontend).
 
----
+```
+🚀 Usage
+🧾 User Registration & Authentication:
 
-## 🚀 Usage
+Users can securely register and log in to create their personalized programming workspace.
 
-1.  **Register/Login:** Create an account or log in to access personalized features.
-2.  **View Contests:** Check the "Contests" page for upcoming competitions. Add them to your Google Calendar.
-3.  **Practice Problems:** Go to the "Problems" page to find unsolved problems. Use filters to narrow down your search.
-4.  **Daily Challenge:** Solve the daily suggested problem to maintain your streak.
-5.  **Favorites:** Add interesting problems or contests to your favorites for quick access.
+Authenticated sessions are managed using JWT tokens, ensuring secure and persistent access.
 
----
+📅 Real-Time Contest Tracking:
+
+Navigate to the "Contests" section to explore upcoming contests from Codeforces, AtCoder, LeetCode, CodeChef, and GFG, aggregated using the Clist.by API.
+
+Apply advanced filters like contest duration, platform, and start time.
+
+One-click integration with Google Calendar lets users set personalized contest reminders.
+
+📚 Intelligent Problem Practice:
+
+Access a curated list of unsolved problems tailored to your skill level and previous activity.
+
+Use powerful filtering options:
+
+By tags: e.g., dynamic programming, greedy, graph, trees.
+
+By difficulty level, platform, or problem status (solved/unsolved).
+
+By title keyword or problem ID.
+
+🔥 Daily Challenge with Streak System:
+
+Receive a daily problem based on your performance and tag preferences.
+
+Track your daily streak visually on the dashboard.
+
+Failure to solve the daily problem by midnight resets the streak.
+
+✅ Problem Status & Progress Tracker:
+
+The portal maintains a history of all solved and attempted problems.
+
+Users can revisit:
+
+All solved problems.
+
+Unsolved or skipped problems.
+
+Favorite problems they marked for later.
+
+❤️ Favorites System:
+
+Bookmark problems or contests to revisit later.
+
+Favorites are stored per user and displayed on the dashboard for quick access.
+
+📊 Dashboard & User Analytics:
+
+View your current streak, problem-solving stats, and platform usage breakdown.
+
+Monitor your growth over time with a progress indicator.
+
+🔐 User Profile & Data Persistence:
+
+Each user’s data (solved problems, streaks, favorites, preferences) is securely stored and persists across sessions.
+
+Users can update profile information and view all interactions in one centralized profile view.
+
+```
 
 ## 🌐 APIs Used
 
