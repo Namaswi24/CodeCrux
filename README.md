@@ -160,8 +160,8 @@ CP_PORTAL/
 
 4.  Open your browser and navigate to `http://localhost:3000` (or the port specified for the frontend).
 
-
-🚀 Usage
+   
+## 🚀 Usage
 🧾 User Registration & Authentication:
 
 Users can securely register and log in to create their personalized programming workspace.
