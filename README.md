@@ -162,69 +162,69 @@ CP_PORTAL/
 
    
 ## 🚀 Usage
- # 🧾 User Registration & Authentication:
+ ###🧾 User Registration & Authentication:
 
-• Users can securely register and log in to create their personalized programming workspace.
+   • Users can securely register and log in to create their personalized programming workspace.
 
-• Authenticated sessions are managed using JWT tokens, ensuring secure and persistent access.
+   • Authenticated sessions are managed using JWT tokens, ensuring secure and persistent access.
 
 ### 📅 Real-Time Contest Tracking:
 
-• Navigate to the "Contests" section to explore upcoming contests from Codeforces, AtCoder, LeetCode, CodeChef, and GFG, aggregated using the Clist.by API.
+   • Navigate to the "Contests" section to explore upcoming contests from Codeforces, AtCoder, LeetCode, CodeChef, and GFG, aggregated using the Clist.by API.
 
-• Apply advanced filters like contest duration, platform, and start time.
+   • Apply advanced filters like contest duration, platform, and start time.
 
-• One-click integration with Google Calendar lets users set personalized contest reminders.
+   • One-click integration with Google Calendar lets users set personalized contest reminders.
 
 ### 📚 Intelligent Problem Practice:
 
-• Access a curated list of unsolved problems tailored to your skill level and previous activity.
+   • Access a curated list of unsolved problems tailored to your skill level and previous activity.
 
-•Use powerful filtering options:
+   • Use powerful filtering options:
 
-•By tags: e.g., dynamic programming, greedy, graph, trees.
+   • By tags: e.g., dynamic programming, greedy, graph, trees.
 
-•By difficulty level, platform, or problem status (solved/unsolved).
+   • By difficulty level, platform, or problem status (solved/unsolved).
 
-•By title keyword or problem ID.
+   • By title keyword or problem ID.
 
 ### 🔥 Daily Challenge with Streak System:
 
-•Receive a daily problem based on your performance and tag preferences.
+  • Receive a daily problem based on your performance and tag preferences.
+ 
+  • Track your daily streak visually on the dashboard.
 
-•Track your daily streak visually on the dashboard.
-
-• Failure to solve the daily problem by midnight resets the streak.
+  • Failure to solve the daily problem by midnight resets the streak.
 
 ### ✅ Problem Status & Progress Tracker:
 
-• The portal maintains a history of all solved and attempted problems.
+  • The portal maintains a history of all solved and attempted problems.
 
-• Users can revisit:
+  • Users can revisit:
 
-• All solved problems.
+  • All solved problems.
 
-• Unsolved or skipped problems.
+  • Unsolved or skipped problems.
 
-• Favorite problems they marked for later.
+  • Favorite problems they marked for later.
 
 ### ❤️ Favorites System:
 
-• Bookmark problems or contests to revisit later.
+  • Bookmark problems or contests to revisit later.
 
-• Favorites are stored per user and displayed on the dashboard for quick access.
+  • Favorites are stored per user and displayed on the dashboard for quick access.
 
 # 📊 Dashboard & User Analytics:
 
-• View your current streak, problem-solving stats, and platform usage breakdown.
+  • View your current streak, problem-solving stats, and platform usage breakdown.
 
-• Monitor your growth over time with a progress indicator.
+  • Monitor your growth over time with a progress indicator.
 
 # 🔐 User Profile & Data Persistence:
 
-• Each user’s data (solved problems, streaks, favorites, preferences) is securely stored and persists across sessions.
+  • Each user’s data (solved problems, streaks, favorites, preferences) is securely stored and persists across sessions.
 
-• Users can update profile information and view all interactions in one centralized profile view.
+  • Users can update profile information and view all interactions in one centralized profile view.
 
 
 
