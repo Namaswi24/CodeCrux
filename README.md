@@ -1,8 +1,8 @@
 
+# 🚀 CodeCrux — Competitive Programming Companion
 
-## Description
+**CodeCrux,CompeCompetitive Programming Portal is a customized full-stack web application that brings together competitive programming features in a single platform. From personalized problem recommendations to daily streaks and calendar-synced contests, it integrates multiple services like Codeforces, AtCoder, LeetCode, and Clist.by into a single competitive programming hub.
 
-CP Practice Portal is a customized competitive programming practice website designed to help users track their progress, discover upcoming contests, and find new problems to solve. It aggregates information from popular coding platforms like Codeforces, AtCoder, LeetCode, CodeChef, and GeeksForGeeks, providing a centralized hub for competitive programming enthusiasts. The application features a functional backend and a user-friendly interface.
 
 ---
 
@@ -41,41 +41,98 @@ CP Practice Portal is a customized competitive programming practice website desi
 
 The project is organized into two main directories: `backend_` and `front_end`.
 ```
-### Backend (`backend_`)
-backend_/
-├── config/             # Configuration files (e.g., database, environment variables)
-├── controllers/        # Handles incoming requests and business logic
-├── middleware/         # Custom middleware functions (e.g., authentication, error handling)
-├── models/             # Database schemas or models
-├── routes/             # Defines API endpoints
-├── src/                # Potentially other source files or utilities for the backend
-├── utils/              # Utility functions for the backend
-├── package-lock.json
-├── package.json
-├── server.js           # Main entry point for the backend server
-└── yarn.lock
+CP_PORTAL/
+├── backend/
+│ ├── controllers/
+│ │ ├── authController.js
+│ │ ├── contestController.js
+│ │ ├── dailyChallengeController.js
+│ │ ├── dashController.js
+│ │ ├── favoritesController.js
+│ │ ├── problemListController.js
+│ │ ├── syncController.js
+│ ├── middleware/
+│ │ ├── authMiddleware.js
+│ │ ├── errorHandler.js
+│ ├── models/
+│ │ ├── user.js
+│ │ ├── contest.js
+│ │ ├── dailyChallenge.js
+│ │ ├── favorites.js
+│ │ ├── problemList.js
+│ │ ├── solvedProblem.js
+│ ├── routes/
+│ │ ├── authRoutes.js
+│ │ ├── contestRoutes.js
+│ │ ├── dailyChallengeRoutes.js
+│ │ ├── dashboardRoutes.js
+│ │ ├── favoritesRoutes.js
+│ │ ├── problemListRoutes.js
+│ │ ├── syncRoutes.js
+│ ├── services/
+│ ├── scripts/
+│ ├── utils/
+│ ├── config/
+│ ├── server.js
+│ └── .env
+│
+├── frontend/
+│ ├── public/
+│ │ └── index.html
+│ ├── src/
+│ │ ├── api/
+│ │ │ └── apiService.js
+│ │ ├── assets/
+│ │ ├── components/
+│ │ │ ├── ContestCard/
+│ │ │ │ ├── ContestCard.jsx
+│ │ │ │ └── ContestCard.css
+│ │ │ ├── Navbar/
+│ │ │ │ ├── Navbar.jsx
+│ │ │ │ └── Navbar.css
+│ │ │ ├── ProblemCard/
+│ │ │ │ ├── ProblemCard.jsx
+│ │ │ │ └── ProblemCard.css
+│ │ │ ├── StreakCard/
+│ │ │ │ ├── StreakCard.jsx
+│ │ │ │ └── StreakCard.css
+│ │ │ └── ProtectedRoute.jsx
+│ │ ├── context/
+│ │ │ └── AuthContext.jsx
+│ │ ├── pages/
+│ │ │ ├── Auth/
+│ │ │ │ ├── AuthPage.jsx
+│ │ │ │ └── AuthPage.css
+│ │ │ ├── Contests/
+│ │ │ │ ├── Contests.jsx
+│ │ │ │ └── Contests.css
+│ │ │ ├── DailyChallenge/
+│ │ │ │ ├── DailyChallenge.jsx
+│ │ │ │ └── DailyChallenge.css
+│ │ │ ├── Dashboard/
+│ │ │ │ ├── Dashboard.jsx
+│ │ │ │ └── Dashboard.css
+│ │ │ ├── Favorite/
+│ │ │ │ ├── Favorites.jsx
+│ │ │ │ ├── Favorites.css
+│ │ │ │ └── sampleData.js
+│ │ │ ├── ProblemList/
+│ │ │ │ ├── ProblemList.jsx
+│ │ │ │ └── ProblemList.css
+│ │ │ ├── Profile/
+│ │ │ │ ├── ProfilePage.jsx
+│ │ │ │ └── ProfilePage.css
+│ │ ├── styles/
+│ │ │ └── index.css
+│ │ ├── utils/
+│ │ ├── App.jsx
+│ │ ├── App.css
+│ │ └── index.jsx
+│ ├── .env
+│ ├── package.json
+│ └── yarn.lock
+
 ```
-```
-### Frontend (`front_end`)
-front_end/
-├── public/
-│   └── index.html      # Main HTML file
-├── src/
-│   ├── api/            # Functions for making API calls to the backend
-│   ├── assets/         # Static assets like images, fonts
-│   ├── components/     # Reusable UI components
-│   ├── context/        # React Context API for state management
-│   ├── pages/          # Page-level components (e.g., HomePage, LoginPage, ContestPage)
-│   ├── styles/         # Global styles, CSS files
-│   ├── utils/          # Utility functions for the frontend
-│   ├── App.css         # Main app styles
-│   ├── App.jsx         # Root React component
-│   └── index.jsx       # Entry point for the React application
-├── package-lock.json
-├── package.json
-└── yarn.lock
-```
----
 
 ## ⚙️ Setup and Installation
 
