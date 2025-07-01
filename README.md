@@ -160,7 +160,7 @@ CP_PORTAL/
 
 4.  Open your browser and navigate to `http://localhost:3000` (or the port specified for the frontend).
 
-```
+
 🚀 Usage
 🧾 User Registration & Authentication:
 
@@ -226,7 +226,7 @@ Each user’s data (solved problems, streaks, favorites, preferences) is securel
 
 Users can update profile information and view all interactions in one centralized profile view.
 
-```
+
 
 ## 🌐 APIs Used
 
